@@ -1,4 +1,4 @@
-# 30_daysofcode
+# Daily Learning
 ## Hello Visitors
 So here, I will be posting my here everything i will learn.
 I will be primarily focussing on Algorithm using C programming language.
